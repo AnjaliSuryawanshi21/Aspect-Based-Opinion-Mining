@@ -1,0 +1,2 @@
+# Aspect-Based-Opinion-Mining
+An opinion may be defined as a combination of four factors (entity, holder, claim, and sentiment), in which the opinion holder may believe a claim about an entity, and in many cases, associate a sentiment with that belief. As opposed to extracting the general sentiment expressed in a piece of text, Aspect-Based Sentiment Analysis aims to extract both the entity described in the text (in this case, attributes or components of a product or service) and the sentiment expressed towards such entities
